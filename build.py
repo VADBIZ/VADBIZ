@@ -35,6 +35,6 @@ L += ["", "### Репозитории — свежие сверху", "", "| Р�
 for r in repos[:12]:
     desc = (r["description"] or "").replace("|", "/")
     L.append(f"| [{r['name']}]({r['html_url']}){' (форк)' if r['fork'] else ''} | {desc} | {r['language'] or ''} | {ru(r['pushed_at'])} |")
-L += ["", f"<sub>Обновляется автоматически каждые 6 часов. Последнее обновление: {ru(datetime.datetime.now(datetime.timezone.utc).isoformat())}.</sub>", ""]
+L += ["", f"<sub>Обновляется автоматически: сайты — с сервера, репозитории — с GitHub, каждые 6 часов. Последнее обновление: {ru(datetime.datetime.now(datetime.timezone.utc).isoformat())}.</sub>", ""]
 open("README.md", "w", encoding="utf-8").write("\n".join(L))
 print(f"сайтов {len(sites)}, репозиториев {len(repos)}")
