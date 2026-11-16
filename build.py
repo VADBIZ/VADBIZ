@@ -18,7 +18,7 @@ for s in auto:
 for e in cfg.get("extra", []):
     i = next((k + 1 for k, s in enumerate(sites) if s["url"] == e.get("after")), len(sites))
     sites.insert(i, {k: v for k, v in e.items() if k != "after"})
-sites = [s for s in sites if alive(s["url"])]
+# по решению владельца ничего не отсеивается: показываются все сайты с их состоянием
 h = {"Accept": "application/vnd.github+json"}
 if os.environ.get("GITHUB_TOKEN"): h["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
 repos = json.load(get(f"https://api.github.com/users/{USER}/repos?type=owner&sort=pushed&per_page=100", h))
@@ -29,8 +29,8 @@ def ru(d):
     d = datetime.date.fromisoformat(d[:10]); return f"{d.day} {months[d.month-1]} {d.year}"
 L = ["## Привет! Я Александр Вербецкий", "",
      "Делаю сайты, Telegram-ботов, игры и сервисы с нейросетями. 22 года в IT.", "",
-     "### Живые проекты", "", "| Проект | Что это |", "|---|---|"]
-L += [f"| [{s['name']}]({s['url']}) | {s['about']} |" for s in sites]
+     "### Проекты", "", "| Проект | Что это | Состояние |", "|---|---|---|"]
+L += [f"| [{s['name']}]({s['url']}) | {s.get('about','').replace('|','/')} | {s.get('status','открыт')} |" for s in sites]
 L += ["", "### Репозитории — свежие сверху", "", "| Репозиторий | Описание | Язык | Обновлён |", "|---|---|---|---|"]
 for r in repos[:12]:
     desc = (r["description"] or "").replace("|", "/")
