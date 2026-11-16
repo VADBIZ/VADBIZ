@@ -1,0 +1,11 @@
+[
+ {"name": "VADEVIT", "url": "https://vadevit.ru", "about": "Digital-агентство: сайты, магазины, Telegram-боты и Mini Apps, дизайн и маркетинг"},
+ {"name": "Александр Вербецкий", "url": "https://vadevit.ru/author", "about": "Разработчик и наставник: 22 года в IT"},
+ {"name": "Городская прогулка", "url": "https://game.vadevit.ru", "about": "Браузерная 3D-игра-прогулка по настоящим городам России: улицы из OpenStreetMap, транспорт, задания, игра с друзьями"},
+ {"name": "ИИ: от А до Я", "url": "https://school.vadevit.ru", "about": "Школа нейросетей: живые занятия онлайн, своя задача у каждого ученика"},
+ {"name": "Автоведение Threads", "url": "https://threads.vadevit.ru", "about": "ИИ пишет посты под ваш бизнес и сам публикует их в Threads по расписанию"},
+ {"name": "Танцуй!", "url": "https://dance.vadevit.ru", "about": "Нейросеть повторяет ваш танец персонажем — котиком, собакой, героем — под музыку"},
+ {"name": "В тренде", "url": "https://trend.vadevit.ru", "about": "Повторите вирусный ролик со своим лицом"},
+ {"name": "Вишлист", "url": "https://wishlist.vadevit.ru", "about": "Списки желаний и резерв подарков в Telegram"},
+ {"name": "3 сентября", "url": "https://3sep.vadevit.ru", "about": "Мем-сайт: отрывной календарь и генератор мемов"}
+]
