@@ -8,7 +8,17 @@ def get(url, headers=None):
 def alive(url):
     try: return get(url).status == 200
     except Exception: return False
-sites = [s for s in json.load(open("sites.json", encoding="utf-8")) if alive(s["url"])]
+cfg = json.load(open("sites.json", encoding="utf-8"))
+auto = json.load(open("projects.json", encoding="utf-8")) if os.path.exists("projects.json") else []
+sites = []
+for s in auto:
+    if s["url"] in cfg.get("exclude", []): continue
+    s = dict(s, about=cfg.get("about", {}).get(s["url"], s.get("about", "")))
+    sites.append(s)
+for e in cfg.get("extra", []):
+    i = next((k + 1 for k, s in enumerate(sites) if s["url"] == e.get("after")), len(sites))
+    sites.insert(i, {k: v for k, v in e.items() if k != "after"})
+sites = [s for s in sites if alive(s["url"])]
 h = {"Accept": "application/vnd.github+json"}
 if os.environ.get("GITHUB_TOKEN"): h["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
 repos = json.load(get(f"https://api.github.com/users/{USER}/repos?type=owner&sort=pushed&per_page=100", h))

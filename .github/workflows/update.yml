@@ -4,7 +4,7 @@ on:
     - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
-    paths: [sites.json, build.py]
+    paths: [sites.json, build.py, projects.json]
 permissions:
   contents: write
 jobs:
