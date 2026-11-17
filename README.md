@@ -43,6 +43,7 @@
 | [ИИ-ролик со мной](https://iirolik.vadevit.ru) |  | закрыт от поиска |
 | [podfak.vadevit.ru](https://podfak.vadevit.ru) |  | закрыт от поиска |
 | [Городская прогулка](https://game.vadevit.ru) | Браузерная 3D-игра-прогулка по настоящим городам России: улицы из OpenStreetMap, транспорт, задания, игра с друзьями | открыт |
+| [rilsy.vadevit.ru](https://rilsy.vadevit.ru) |  | ошибка 404 |
 
 ### Репозитории — свежие сверху
 
