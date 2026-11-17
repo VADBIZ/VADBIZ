@@ -214,5 +214,11 @@
   "url": "https://game.vadevit.ru",
   "about": "Игра-прогулка по настоящим городам: улицы и дома по карте OpenStreetMap, трамваи и автобусы по маршрутам, погода как на улице, сюжет…",
   "status": "открыт"
+ },
+ {
+  "name": "rilsy.vadevit.ru",
+  "url": "https://rilsy.vadevit.ru",
+  "about": "",
+  "status": "ошибка 404"
  }
 ]
