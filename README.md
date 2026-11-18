@@ -9,8 +9,8 @@
 | [VADEVIT](https://vadevit.ru) | Digital-агентство: сайты, магазины, Telegram-боты и Mini Apps, ИИ-автоматизация | открыт |
 | [Александр Вербецкий](https://vadevit.ru/author) | Разработчик и наставник: 22 года в IT | открыт |
 | [Вход · Почта VADEVIT](https://mail.vadevit.ru) |  | вход по паролю |
-| [rupor.vadevit.ru](https://rupor.vadevit.ru) |  | ошибка 502 |
-| [reels.vadevit.ru](https://reels.vadevit.ru) |  | ошибка 502 |
+| [Смонтируй](https://rupor.vadevit.ru) | Смонтируй — монтаж подкастов | → смонтируй.рф |
+| [Смонтируй](https://reels.vadevit.ru) | Смонтируй — монтаж подкастов | → смонтируй.рф |
 | [reels.audenta.ru](https://reels.audenta.ru) |  | не отвечает |
 | [Вход · CRM VADEVIT](https://crm.vadevit.ru) |  | вход по паролю |
 | [Опрос «Точка Биффуркации»](https://tb.vadevit.ru) |  | вход по паролю |
