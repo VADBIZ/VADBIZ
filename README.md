@@ -11,7 +11,7 @@
 | [Вход · Почта VADEVIT](https://mail.vadevit.ru) |  | вход по паролю |
 | [Смонтируй](https://rupor.vadevit.ru) | Смонтируй — монтаж подкастов | → смонтируй.рф |
 | [Смонтируй](https://reels.vadevit.ru) | Смонтируй — монтаж подкастов | → смонтируй.рф |
-| [reels.audenta.ru](https://reels.audenta.ru) |  | не отвечает |
+| [OK](https://reels.audenta.ru) |  | открыт |
 | [Вход · CRM VADEVIT](https://crm.vadevit.ru) |  | вход по паролю |
 | [Опрос «Точка Биффуркации»](https://tb.vadevit.ru) |  | вход по паролю |
 | [Вишлист](https://wishlist.vadevit.ru) | Списки желаний и резерв подарков в Telegram | открыт |
