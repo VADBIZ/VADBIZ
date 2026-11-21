@@ -59,4 +59,4 @@
 | [ShumilovIvan](https://github.com/VADBIZ/ShumilovIvan) |  | HTML | 28 мая 2021 |
 | [ShumilovArtem](https://github.com/VADBIZ/ShumilovArtem) |  | HTML | 28 мая 2021 |
 
-<sub>Обновляется автоматически: сайты — с сервера, репозитории — с GitHub, каждые 6 часов. Последнее обновление: 20 ноября 2026.</sub>
+<sub>Обновляется автоматически: сайты — с сервера, репозитории — с GitHub, каждые 6 часов. Последнее обновление: 21 ноября 2026.</sub>
