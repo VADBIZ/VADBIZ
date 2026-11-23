@@ -28,7 +28,7 @@
 | [zahodi.vadevit.ru](https://zahodi.vadevit.ru) |  | ошибка 502 |
 | [195-2-74-83.sslip.io](https://195-2-74-83.sslip.io) |  | ошибка 502 |
 | [studioworld.vadevit.ru](https://studioworld.vadevit.ru) |  | ошибка 503 |
-| [studio-world.ru](https://studio-world.ru) |  | ошибка 404 |
+| [studio-world.ru](https://studio-world.ru) |  | не отвечает |
 | [Стикер Легко](https://sticker.vadevit.ru) | Преврати своё фото в персональные стикеры для Telegram. 16 стилей, 40 реакций на выбор и наборы из 12, 24 или 40 стикеров без подписки. | открыт |
 | [TERRA](https://mtp.vadevit.ru) | Рабочее облако TERRA MEDIA PRODUCTION | закрыт от поиска |
 | [Пульт · команда в моменте](https://pult.vadevit.ru) | Пульт — расписание события, задачи и команда на одном экране. Общая ссылка, живой тайминг и редактор программы. | закрыт от поиска |
