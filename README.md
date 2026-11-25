@@ -24,9 +24,6 @@
 | [Квиз · панель](https://quiz.vadevit.ru) |  | закрыт от поиска |
 | [Автоведение Threads](https://threads.vadevit.ru) | ИИ пишет посты под ваш бизнес и публикует их в Threads по расписанию, подстраивается под ваш тон и растит подписчиков. 990 ₽ в месяц,… | открыт |
 | [ПОДФАК](https://tmsk.vadevit.ru) | ПОДФАК — пакет проекта | закрыт от поиска |
-| [заходионлайн.рф](https://заходионлайн.рф) |  | ошибка 502 |
-| [zahodi.vadevit.ru](https://zahodi.vadevit.ru) |  | ошибка 502 |
-| [195-2-74-83.sslip.io](https://195-2-74-83.sslip.io) |  | ошибка 502 |
 | [studioworld.vadevit.ru](https://studioworld.vadevit.ru) |  | ошибка 503 |
 | [Студия прикладных гуманитарных исследований «Раритет»](https://studio-world.ru) | Экосистема «Раритет»: OSINT-исследования, сообщество "Нетворкинг чайников", сервис аудиовизуальной локализации, студия дизайна… | открыт |
 | [Стикер Легко](https://sticker.vadevit.ru) | Преврати своё фото в персональные стикеры для Telegram. 16 стилей, 40 реакций на выбор и наборы из 12, 24 или 40 стикеров без подписки. | открыт |
@@ -46,11 +43,13 @@
 | [VADEVIT Audit](https://audit.vadevit.ru) | VADEVIT Audit — сводка | закрыт от поиска |
 | [VADEVIT · Кабинет Авито](https://avito.vadevit.ru) | Панель управления объявлениями Авито: метрики, автоправки, сессия браузера. | закрыт от поиска |
 | [noVNC](https://avito-vnc.vadevit.ru) |  | закрыт от поиска |
+| [VSB · панель сдач](https://vsb.vadevit.ru) | Контроль ежедневных сдач потока ВШБ — Москва | закрыт от поиска |
 
 ### Репозитории — свежие сверху
 
 | Репозиторий | Описание | Язык | Обновлён |
 |---|---|---|---|
+| [vsb](https://github.com/VADBIZ/vsb) |  | TypeScript | 25 ноября 2026 |
 | [minimax-h3-workspace](https://github.com/VADBIZ/minimax-h3-workspace) (форк) | Minimax H3 Workspace для Windows и Мака: генерация видео MiniMax H3 без знания ComfyUI | HTML | 2 ноября 2026 |
 | [masteroprosov](https://github.com/VADBIZ/masteroprosov) | МастерОпросов | PHP | 7 августа 2025 |
 | [mi](https://github.com/VADBIZ/mi) |  |  | 25 октября 2022 |
