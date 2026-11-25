@@ -126,10 +126,10 @@
   "status": "ошибка 503"
  },
  {
-  "name": "studio-world.ru",
+  "name": "Студия прикладных гуманитарных исследований «Раритет»",
   "url": "https://studio-world.ru",
-  "about": "",
-  "status": "не отвечает"
+  "about": "Экосистема «Раритет»: OSINT-исследования, сообщество \"Нетворкинг чайников\", \nсервис аудиовизуальной локализации, студия дизайна…",
+  "status": "открыт"
  },
  {
   "name": "Стикер Легко",
@@ -210,15 +210,27 @@
   "status": "закрыт от поиска"
  },
  {
-  "name": "Городская прогулка",
-  "url": "https://game.vadevit.ru",
-  "about": "Игра-прогулка по настоящим городам: улицы и дома по карте OpenStreetMap, трамваи и автобусы по маршрутам, погода как на улице, сюжет…",
-  "status": "открыт"
- },
- {
   "name": "rilsy.vadevit.ru",
   "url": "https://rilsy.vadevit.ru",
   "about": "",
   "status": "ошибка 404"
+ },
+ {
+  "name": "VADEVIT Audit",
+  "url": "https://audit.vadevit.ru",
+  "about": "VADEVIT Audit — сводка",
+  "status": "закрыт от поиска"
+ },
+ {
+  "name": "VADEVIT · Кабинет Авито",
+  "url": "https://avito.vadevit.ru",
+  "about": "Панель управления объявлениями Авито: метрики, автоправки, сессия браузера.",
+  "status": "закрыт от поиска"
+ },
+ {
+  "name": "noVNC",
+  "url": "https://avito-vnc.vadevit.ru",
+  "about": "",
+  "status": "закрыт от поиска"
  }
 ]
