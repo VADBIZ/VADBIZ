@@ -102,24 +102,6 @@
   "status": "закрыт от поиска"
  },
  {
-  "name": "заходионлайн.рф",
-  "url": "https://заходионлайн.рф",
-  "about": "",
-  "status": "ошибка 502"
- },
- {
-  "name": "zahodi.vadevit.ru",
-  "url": "https://zahodi.vadevit.ru",
-  "about": "",
-  "status": "ошибка 502"
- },
- {
-  "name": "195-2-74-83.sslip.io",
-  "url": "https://195-2-74-83.sslip.io",
-  "about": "",
-  "status": "ошибка 502"
- },
- {
   "name": "studioworld.vadevit.ru",
   "url": "https://studioworld.vadevit.ru",
   "about": "",
@@ -231,6 +213,12 @@
   "name": "noVNC",
   "url": "https://avito-vnc.vadevit.ru",
   "about": "",
+  "status": "закрыт от поиска"
+ },
+ {
+  "name": "VSB · панель сдач",
+  "url": "https://vsb.vadevit.ru",
+  "about": "Контроль ежедневных сдач потока ВШБ — Москва",
   "status": "закрыт от поиска"
  }
 ]
