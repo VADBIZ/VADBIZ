@@ -28,7 +28,7 @@
 | [zahodi.vadevit.ru](https://zahodi.vadevit.ru) |  | ошибка 502 |
 | [195-2-74-83.sslip.io](https://195-2-74-83.sslip.io) |  | ошибка 502 |
 | [studioworld.vadevit.ru](https://studioworld.vadevit.ru) |  | ошибка 503 |
-| [studio-world.ru](https://studio-world.ru) |  | не отвечает |
+| [Студия прикладных гуманитарных исследований «Раритет»](https://studio-world.ru) | Экосистема «Раритет»: OSINT-исследования, сообщество "Нетворкинг чайников", сервис аудиовизуальной локализации, студия дизайна… | открыт |
 | [Стикер Легко](https://sticker.vadevit.ru) | Преврати своё фото в персональные стикеры для Telegram. 16 стилей, 40 реакций на выбор и наборы из 12, 24 или 40 стикеров без подписки. | открыт |
 | [TERRA](https://mtp.vadevit.ru) | Рабочее облако TERRA MEDIA PRODUCTION | закрыт от поиска |
 | [Пульт · команда в моменте](https://pult.vadevit.ru) | Пульт — расписание события, задачи и команда на одном экране. Общая ссылка, живой тайминг и редактор программы. | закрыт от поиска |
@@ -42,8 +42,10 @@
 | [МосМирМебели](https://mosmirmebeli.vadevit.ru) |  | закрыт от поиска |
 | [ИИ-ролик со мной](https://iirolik.vadevit.ru) |  | закрыт от поиска |
 | [podfak.vadevit.ru](https://podfak.vadevit.ru) |  | закрыт от поиска |
-| [Городская прогулка](https://game.vadevit.ru) | Браузерная 3D-игра-прогулка по настоящим городам России: улицы из OpenStreetMap, транспорт, задания, игра с друзьями | открыт |
 | [rilsy.vadevit.ru](https://rilsy.vadevit.ru) |  | ошибка 404 |
+| [VADEVIT Audit](https://audit.vadevit.ru) | VADEVIT Audit — сводка | закрыт от поиска |
+| [VADEVIT · Кабинет Авито](https://avito.vadevit.ru) | Панель управления объявлениями Авито: метрики, автоправки, сессия браузера. | закрыт от поиска |
+| [noVNC](https://avito-vnc.vadevit.ru) |  | закрыт от поиска |
 
 ### Репозитории — свежие сверху
 
