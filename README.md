@@ -40,10 +40,10 @@
 | [ИИ-ролик со мной](https://iirolik.vadevit.ru) |  | закрыт от поиска |
 | [podfak.vadevit.ru](https://podfak.vadevit.ru) |  | закрыт от поиска |
 | [rilsy.vadevit.ru](https://rilsy.vadevit.ru) |  | ошибка 404 |
-| [VADEVIT Audit](https://audit.vadevit.ru) | VADEVIT Audit — сводка | закрыт от поиска |
-| [VADEVIT · Кабинет Авито](https://avito.vadevit.ru) | Панель управления объявлениями Авито: метрики, автоправки, сессия браузера. | закрыт от поиска |
+| [Компании без сайта](https://audit.vadevit.ru) | Компании без сайта — VADEVIT Audit | закрыт от поиска |
+| [Авито · VADEVIT](https://avito.vadevit.ru) | Панель объявлений Авито: статистика, тексты и фото, автозагрузка. | вход по паролю |
 | [noVNC](https://avito-vnc.vadevit.ru) |  | закрыт от поиска |
-| [VSB · панель сдач](https://vsb.vadevit.ru) | Контроль ежедневных сдач потока ВШБ — Москва | закрыт от поиска |
+| [vsb.vadevit.ru](https://vsb.vadevit.ru) |  | вход по паролю |
 
 ### Репозитории — свежие сверху
 
